@@ -6,6 +6,8 @@ To use it install BlueStacks and download Project Sekai (It doesn't matter if it
 
 **Note:** Because my keyboard is Spanish I have the "Ñ" key as you can see in the control scheme. If your keyboard has another key configuration simply change them to your needs. Please do not change the code of the scripts related to the “SPACE” key as they are balanced to work correctly and the slightest change will render the key unusable.
 
+![Scheme Screenshot](https://github.com/KarstSkarn/Karst-PSekai-PC-Control-Scheme/blob/main/schemeoverlay.png?raw=true)
+
 The 12 note lanes are as you can see linked to the “A S D F ...” key row. 
 To make “slick notes” just press “SPACE” and the code will make the necessary swipe to the top (it requires some skill to do it at the right time).
 
