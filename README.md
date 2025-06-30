@@ -1,18 +1,15 @@
-# Karst's PSekai PC Keyboard Scheme
+# PJSK Bluestacks Control Scheme
 
-This is a distribution of controls for playing Project Sekai on PC using BlueStacks. It allows the user to do all the functions that would normally be performed on a touch device. 
+*Works on both ***Bluestacks*** and ***MSI App Player.****   
 
-To use it install BlueStacks and download Project Sekai (It doesn't matter if it is the JP or ENG version). In the Bluestacks side menu select the controls editor and import the .cfg file that you will find in this GitHub repository.
+These controls are designed with US laptop keyboards in mind *(specifically the MSI Stealth 15M - A11UEK).* Experience may vary on desktop keyboards.  
+This repository comes with two **.cnf** *(config)* files.  
 
-**Note:** Because my keyboard is Spanish I have the "Ñ" key as you can see in the control scheme. If your keyboard has another key configuration simply change them to your needs. Please do not change the code of the scripts related to the “SPACE” key as they are balanced to work correctly and the slightest change will render the key unusable.
+One is for standard rhythm gameplay and has keys **A** through **Enter** mapped to the horizontal width of the screen. *(A, S, D, F, G, H, J, K, L, ;, ', Enter)*  
+And **Space** mapped for flick notes across **all lanes.** *(there is minor input delay)*  
+This one is titled **"com.sega.ColorfulStage.en - RHYTHM.cfg".**  
 
-![Scheme Screenshot](https://github.com/KarstSkarn/Karst-PSekai-PC-Control-Scheme/blob/main/schemeoverlay.png?raw=true)
+The other is for first-person 3D events. You can use **W, A, S,** and **D** to walk, **P** to open the settings menu, **F** to screenshot, and the **Up** and **Down** arrow keys to zoom in/out, along with other misc controls.  
+This one is titled **"com.sega.ColorfulStage.en - EVENT.cfg".**  
 
-The 12 note lanes are as you can see linked to the “A S D F ...” key row. 
-To make “slick notes” just press “SPACE” and the code will make the necessary swipe to the top (it requires some skill to do it at the right time).
-
-For conventional sliders hold the keys that fit in the area that the slider requests and move your fingers across the keyboard as if you were making a scale.
-
-I hope you find it useful.  Any doubt or problem do not hesitate to contact me.
-
-https://karstskarn.carrd.co
+These controls work reasonably well enough for **Hard** and under rated charts, but don't expect to play anything past a like 18-20
