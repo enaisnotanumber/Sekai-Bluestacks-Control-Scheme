@@ -12,4 +12,4 @@ This one is titled **"com.sega.ColorfulStage.en - RHYTHM.cfg".**
 The other is for first-person 3D events. You can use **W, A, S,** and **D** to walk, **P** to open the settings menu, **F** to screenshot, and the **Up** and **Down** arrow keys to zoom in/out, along with other misc controls.  
 This one is titled **"com.sega.ColorfulStage.en - EVENT.cfg".**  
 
-These controls work reasonably well enough for **Hard** and under rated charts, but don't expect to play anything past a like 18-20
+These controls work reasonably well enough for **Hard** and under rated charts, but don't expect to play anything past a like 18-20.
